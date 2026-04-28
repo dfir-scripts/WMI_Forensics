@@ -1,3 +1,8 @@
+# Python 3 Update
+This is a fork of David's original WMI Forensics repo which has been updated to Python 3<br>
+No other changes or enhancements were made.<br>
+The original files are located at https://github.com/davidpany/WMI_Forensics 
+
 # WMI_Forensics
 This repository contains scripts used to find evidence in WMI repositories, specifically OBJECTS.DATA files located at:
 
